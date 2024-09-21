@@ -1,0 +1,11 @@
+Bônus
+Cupons de desconto do mês de Junho:
+
+
+Curso Python na prática! :
+
+Aprenda na prática por meio de diversos exercícios os principais recursos da linguagem Python. São mais de 150 exercícios resolvidos e projetos. Além disso, temos seções de dicas e desafios para que você esteja em constante revisão.
+
+Bootcamp de Data Science com Python: 
+
+Aprende NumPy, Pandas e Data Visualization com Python de forma prática e objetiva. São mais de 250 exercícios que farão você aprender Data Science de uma forma totalmente divertida  e prática.

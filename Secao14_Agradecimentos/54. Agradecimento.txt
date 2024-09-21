@@ -1,0 +1,6 @@
+Agradecimento
+Parabéns por ter concluído este curso !
+
+
+
+Agora você poderá dar seus primeiros passos para construir gráficos dinâmicos de alto padrão utilizando a linguagem Python. Ao longo deste curso percorremos as principais funcionalidades da biblioteca Plotly desde o básico até o avançado. Você poderá prosseguir seus estudos e fazer gráficos incríveis.
